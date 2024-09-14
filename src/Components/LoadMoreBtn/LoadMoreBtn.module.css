@@ -1,0 +1,18 @@
+.button {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    color: black;
+    outline: none;
+    background-color: #00BFFF;
+}
